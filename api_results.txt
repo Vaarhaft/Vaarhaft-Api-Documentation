@@ -1,8 +1,0 @@
-File: profilecopy.png
-Response: {"body":{"generatedDetection":{"additionalInfo1":"","confidence":0.99,"result":true},"photoDNAResult":{"additionalInfo1":"","additionalInfo2":"","result":true},"reverseSearchResult":{"additionalInfo1":"","highestScore":96.0780029296875,"result":false},"session_id":"8caa5494-43a7-4f43-90d8-878db5813a82"},"statusCode":200}
-
-
-File: profile.png
-Response: {"body":{"generatedDetection":{"additionalInfo1":"","confidence":0.99,"result":true},"photoDNAResult":{"additionalInfo1":"","additionalInfo2":"","result":true},"reverseSearchResult":{"additionalInfo1":"","highestScore":96.0780029296875,"result":false},"session_id":"d93db1a3-6d1e-4e06-a5cc-6a87b2de880f"},"statusCode":200}
-
-
